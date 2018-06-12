@@ -104,6 +104,8 @@ public class Order extends CustomCredentials {
 		
 		
 		driver.close();
+		
+		//Just added
 	}
 
 
